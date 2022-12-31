@@ -1,0 +1,50 @@
+/*Configuracoes gerais*/
+/*html,body{
+	height: 100%;
+	overflow: hidden;
+}*/
+.borda{
+	border: 1px solid red;
+}
+body{
+	background-color: #c8c4bf;
+}
+	/*Fontes*/
+	/*Links*/
+	/*Tipografia*/
+/*Configuracoes no cabecalho*/
+	/*Configuracoes na barra de navegacao*/
+	/*Configuracoes em botoes*/
+	/*Configuracoes na barra de pesquisa*/
+/*Configuracoes no corpo*/
+.row-principal{
+	border-radius:0px 0px 10px 0px ;
+}
+.imagens{
+	border-radius: 10px 0;
+}
+img.imagens{
+	width: 750px;
+	height: 610px;
+}
+#logo1{
+	font-weight: 800;
+}
+#logo2{
+	font-size: 0.5em;
+	letter-spacing: 0.1em;
+	font-weight: 100;
+}
+input#email.form-control,input#nome.form-control,input#senha.form-control{
+	border: none;
+	border-bottom: 1px solid black;
+	border-radius: 0px;
+}
+button.botao{
+	border: 1px solid #e3e2e4;
+}
+#logomarca{
+	margin-top: 70px;
+}
+/*Configuracoes no rodape*/
+
